@@ -12,7 +12,8 @@
       "HIGH_PAYING_KEYWORD3": "Mortgage",
       "HIGH_PAYING_KEYWORD4": "Attorney",
       "HIGH_PAYING_KEYWORD5": "Credit", 
-      "interval": 8,
+      "interval": 8, 
+      "interval_native": 3,
       "coin_reward": 0
     }
   ],
