@@ -14,7 +14,7 @@
       "HIGH_PAYING_KEYWORD5": "Credit", 
       "interval": 8, 
       "interval_native": 3,
-      "coin_reward": 0
+      "coin_reward": 500
     }
   ],
   "More":
@@ -38,70 +38,70 @@
       "name_category": "Batako",
       "title":"1",
       "image":"https://cdn.statically.io/gh/andi235455/outfiti-ideas-gacha/main/1.webp",
-      "coin":1000
+      "coin":0
     },
     {
       "id": 2,
       "name_category": "Batako",
       "title": "2",
       "image": "https://cdn.statically.io/gh/andi235455/outfiti-ideas-gacha/main/2.webp",
-      "coin":1000
+      "coin":0
     },
     {
       "id":3,
       "name_category": "Batako",
       "title":"3",
       "image":"https://cdn.statically.io/gh/andi235455/outfiti-ideas-gacha/main/3.webp",
-      "coin":1000
+      "coin":0
     },
     {
       "id":4,
       "name_category": "Batako",
       "title":"4",
       "image":"https://cdn.statically.io/gh/andi235455/outfiti-ideas-gacha/main/4.webp",
-      "coin":1000
+      "coin":0
     },
     {
       "id":5,
       "name_category": "Batako",
       "title":"5",
       "image":"https://cdn.statically.io/gh/andi235455/outfiti-ideas-gacha/main/5.webp",
-      "coin":1000
+      "coin":0
     },
     {
       "id":6,
       "name_category": "Batako",
       "title":"6",
       "image":"https://cdn.statically.io/gh/andi235455/outfiti-ideas-gacha/main/6.webp",
-      "coin":1000
+      "coin":0
     },
     {
       "id":7,
       "name_category": "Batako",
       "title":"7",
       "image":"https://cdn.statically.io/gh/andi235455/outfiti-ideas-gacha/main/7.webp",
-      "coin":1000
+      "coin":0
     },
     {
       "id":8,
       "name_category": "Batako",
       "title":"8",
       "image":"https://cdn.statically.io/gh/andi235455/outfiti-ideas-gacha/main/8.webp",
-      "coin":1000
+      "coin":0
     },
     {
       "id":9,
       "name_category": "Batako",
       "title":"9",
       "image":"https://cdn.statically.io/gh/andi235455/outfiti-ideas-gacha/main/9.webp",
-      "coin":1000
+      "coin":0
     },
     {
       "id":10,
       "name_category": "Batako",
       "title":"10",
       "image":"https://cdn.statically.io/gh/andi235455/outfiti-ideas-gacha/main/10.webp",
-      "coin":1000
+      "coin":0
     },
     {
       "id": 11,
